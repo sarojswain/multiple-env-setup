@@ -8,3 +8,5 @@ console.log("feature one commit")
 
 
 console.log("hotfix commit")
+
+console.log("feature two commit")
